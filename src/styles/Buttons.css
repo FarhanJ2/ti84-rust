@@ -1,0 +1,19 @@
+.buttons {
+
+}
+
+.row1 {
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+}
+
+.button {
+    /* Add your button styles here */
+    width: 80px;
+    height: 40px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
